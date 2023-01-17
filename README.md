@@ -6,7 +6,7 @@ Getting Started:
    Clone or download the repository to your local machine.
    Install the required libraries listed in the requirements.txt file.
    Run the plant recommender.ipynb file to start the application.
-
+   
 Prerequisites:
    Python 3.x
    Required libraries listed in the requirements.txt file
