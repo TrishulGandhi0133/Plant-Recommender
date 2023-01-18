@@ -3,8 +3,14 @@
 Welcome to the Plant Recommender Project! This project aims to provide users with personalized plant recommendations based on their preferences and environmental factors.
  
 Getting Started:
-   Clone or download the repository to your local machine.
+
+
+   Clone or download the repository to your local machine.  
+   
+   
    Install the required libraries listed in the requirements.txt file.
+   
+   
    Run the plant recommender.ipynb file to start the application.
    
 Prerequisites:
